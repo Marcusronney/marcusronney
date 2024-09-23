@@ -48,7 +48,7 @@ Badges🌐
 
 </br>
 
-#Certificações em Processo#
+Certificações em Processo
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/15fb6fc78b02b700c88462610068c62a1d666ba11d01a8c4dfef797490f80ac0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://leads.com.bd/wp-content/uploads/2020/12/ccna-or-cisco-certiried-network-associate.jpg" width="100" height="100" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="max-width: 100%;"></a>  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/15fb6fc78b02b700c88462610068c62a1d666ba11d01a8c4dfef797490f80ac0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://linuxsemfronteiras.com.br/wp-content/uploads/2017/07/LPIC-1-Large.png" width="100" height="100" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="max-width: 100%;"></a>
 
