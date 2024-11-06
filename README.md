@@ -56,7 +56,4 @@ Certificações em Processo
 
 
 <br/>
-<br/>
-<br/>
 
-![Marcus Ronney GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusronney&show_icons=true&theme=radical)
